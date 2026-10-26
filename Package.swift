@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FsyVoiceSDK",
-            url: "https://mxminio.2dx.co:82/fsy/sdk/ios/sdk/0.1.0/FsyVoiceSDK.xcframework.zip",
-            checksum: "08934f15fab15b0b7d3fa90333b07337c7e4b01341a457dff2694eeac60b89e1"
+            url: "https://mxminio.2dx.co:82/fsy/sdk/ios/sdk/0.1.1/FsyVoiceSDK.xcframework.zip",
+            checksum: "d8a5e65f463cb524a7dc450bf4eadb7d2769f23824bb986d0b104af7a1c53f3b"
         ),
         .binaryTarget(
             name: "LiveKitWebRTC",
